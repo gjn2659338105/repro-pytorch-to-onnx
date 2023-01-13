@@ -1,1 +1,1 @@
-Put the downloaded pytorch model 'gen.pth' in this folder.
+Put the downloaded pytorch model 'gen.pth' into this folder.
